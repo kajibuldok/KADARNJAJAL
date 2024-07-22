@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+alyson8310.hocoos.com	TRUE	/	FALSE	1999999999	viewedProducts	%5B852099%2C852098%2C852097%2C852096%2C852089%2C852088%5D
+alyson8310.hocoos.com	TRUE	/	FALSE	1999999999	siteId	237769
+alyson8310.hocoos.com	TRUE	/	FALSE	1999999999	language_code	en-us
+

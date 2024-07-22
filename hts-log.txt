@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 22 Jul 2024 22:48:20 at https://alyson8310.hocoos.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://alyson8310.hocoos.com/ -O1 "D:\SAMBAL\dsfgsdfsdfsdfs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:49:22	Error: 	"Not Found" (404) at link https://alyson8310.hocoos.com/_ipx/f_webp,q_50,s_505x355/https://img2.hocoos.com/cache/u/274303/237769/w-1660/h-1110/x-10/y-13/ww-505/wh-355/u/274303/237769/10_5d184.png (from https://alyson8310.hocoos.com/)
+22:49:22	Warning: 	Link https://alyson8310.hocoos.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+22:49:22	Error: 	"Not Found" (404) at link https://alyson8310.hocoos.com/static (from https://alyson8310.hocoos.com/)
+22:49:33	Error: 	"Not Found" (404) at link https://alyson8310.hocoos.com/store/collections/static (from https://alyson8310.hocoos.com/store/collections/store?id=134156)
+22:49:33	Error: 	"Not Found" (404) at link https://alyson8310.hocoos.com/d/aboutus (from https://alyson8310.hocoos.com/d/AboutUs)
+22:49:33	Error: 	"Not Found" (404) at link https://alyson8310.hocoos.com/d/static (from https://alyson8310.hocoos.com/d/AboutUs)
+22:49:33	Error: 	"Not Found" (404) at link https://alyson8310.hocoos.com/store/products/static (from https://alyson8310.hocoos.com/store/products/sambal-cumi)
+22:49:33	Error: 	"Not Found" (404) at link https://alyson8310.hocoos.com/store/products/product-img-pack (from https://alyson8310.hocoos.com/store/products/sambal-cumi)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 13 seconds : 90 links scanned, 82 files written (6559284 bytes overall) [3729734 bytes received at 51092 bytes/sec], 4155204 bytes transferred using HTTP compression in 32 files, ratio 22%, 11.2 requests per connection
+(7 errors, 1 warnings, 0 messages)
